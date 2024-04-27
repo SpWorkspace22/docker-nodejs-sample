@@ -1,4 +1,3 @@
-# syntax=docker/dockerfile:1
 
 ARG NODE_VERSION=18.0.0
 
